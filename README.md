@@ -10,7 +10,7 @@
 
 
 ## Projetos de Classificação Machine Learning:
-* **Diminuição de Turnover de colaboradores:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: .
+* **Diminuição de Turnover de colaboradores [Scitkit Learn, Jupyter, Dados: Arquivo CSV]:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: .
 * **Detectar Fraudes em Transações de Cartão de Crédito:** A solução anterior usada pela empresa não esta gerando os resultados esperados, a gerência decidiu então utilizar um sistema de inteligência artificial para classificar transações fraudulentas: .
 * **Classificação de Emoção em Review de Clientes:** A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: .
 

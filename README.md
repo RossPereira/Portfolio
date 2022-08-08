@@ -10,14 +10,16 @@
 
 
 ## Projetos de Classificação Machine Learning:
-* **Modelo de clusterização para o produto de Background Check:** O objetivo é identificar se uma pessoa ou empresa apresnta risco ao negócio.
-* **Sistema de recomendação para a indústria farmacêutica:** Desenvolvimento de um modelo híbrido (filtragem colaborativa e baseada em contéudo) para recomendar medicamentos e produtos de higiene e beleza em um e-commerce.
-* **Análise de sentimento para o mercado financeiro:** Analisar a correlação entre as publicações nas mídias sociais e as cotações da B3.
+* **Diminuição de Turnover de colaboradores:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: .
+* **Classificação de Emoção em Review de Clientes:** A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: .
 
 ## Projetos de Clusterização Machine Learning:
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:** https://bit.ly/
-* **Extraindo insights da base de dados Black Friday através da Exploratory Data Analysis(EDA):** 
+* **Segmentação de Clientes para Campanha de Marketing:** Com a aproximação da Black Friday a empresa deseja ter um melhor ROI em suas campanhas de marketing o objetivo do modelo é separar os clientes em grupos com caracteristicas distintas: https://bit.ly/
 
+## Projetos de Deep Learning:
+
+## Projetos de Processamento de Linguagem Natural:
+* **Classificação de Emoção em Review de Clientes: A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado:**
 ---

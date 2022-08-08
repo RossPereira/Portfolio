@@ -11,6 +11,7 @@
 
 ## Projetos de Classificação Machine Learning:
 * **Diminuição de Turnover de colaboradores:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: .
+* **Detectar Fraudes em Transações de Cartão de Crédito:** A solução anterior usada pela empresa não esta gerando os resultados esperados, a gerência decidiu então utilizar um sistema de inteligência artificial para classificar transações fraudulentas: .
 * **Classificação de Emoção em Review de Clientes:** A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: .
 
 ## Projetos de Clusterização Machine Learning:
@@ -19,6 +20,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Segmentação de Clientes para Campanha de Marketing:** Com a aproximação da Black Friday a empresa deseja ter um melhor ROI em suas campanhas de marketing o objetivo do modelo é separar os clientes em grupos com caracteristicas distintas: https://bit.ly/
 
 ## Projetos de Deep Learning:
+* **Pré-Diagnóstico de Doenças Pulmunares através de Imagens de Raio X: Gerar um modelo que mostrada uma imagem de raio-x consiga classificar se a imagem apresenta uma das 3 doenças pré-treinadas( covid-19, Pneumonia bacterial, Pneumonia Viral) ou se o pulmão está livre de qualquer uma das três. O objetivo é acelerar o processo de atendimento médico:**
 
 ## Projetos de Processamento de Linguagem Natural:
 * **Classificação de Emoção em Review de Clientes: A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado:**

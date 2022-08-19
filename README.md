@@ -6,25 +6,24 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodolfopereira-ai/)
-* [Medium]([https://medium.com/@KarinneCristina](https://medium.com/@rodolfopereira.ai))
+* [Medium](https://medium.com/@rodolfopereira.ai)
 
 
 ## Projetos de Classificação Machine Learning:
-* **Diminuição de Turnover de colaboradores [Scitkit Learn, Jupyter, Dados: Arquivo CSV]:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: .
+* **Diminuição de Turnover de colaboradores [Scitkit Learn, Jupyter, Dados: Arquivo CSV]:** O objetivo do modelo é identificar quais colaboradores apresentam maior risco de saída da empresa evitando assim aumento nos custos com contratação e aumentando a retenção de talentos: [Ver Projeto](https://github.com/RossPereira/EvitarSaidaColaboradores/blob/main/EvitarSaidaColabs.ipynb).
 * **Detectar Fraudes em Transações de Cartão de Crédito:** A solução anterior usada pela empresa não esta gerando os resultados esperados, a gerência decidiu então utilizar um sistema de inteligência artificial para classificar transações fraudulentas: .
-* **Classificação de Emoção em Review de Clientes:** A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: .
+* **Classificação de Emoção em Review de Clientes:** A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: [Ver Projeto](https://github.com/RossPereira/EmocaoClientes/blob/main/EmocaoClientes.ipynb).
 
 ## Projetos de Clusterização Machine Learning:
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* **Segmentação de Clientes para Campanha de Marketing:** Com a aproximação da Black Friday a empresa deseja ter um melhor ROI em suas campanhas de marketing o objetivo do modelo é separar os clientes em grupos com caracteristicas distintas: https://bit.ly/
+* **Segmentação de Clientes para Campanha de Marketing:** Com a aproximação da Black Friday a empresa deseja ter um melhor ROI em suas campanhas de marketing o objetivo do modelo é separar os clientes em grupos com caracteristicas distintas: [Ver Projeto](https://github.com/RossPereira/SegmentacaoClientes/blob/main/SegmentacaoDeClientes.ipynb)
 
 ## Projetos de Regressão Machine Learning:
 * **Sugerir Preço de Imóvel Baseado em Característica:** Muitos de nossos clientes quando vão anunciar um imóvel não tem noção de que valor cobrar. Precisamos de uma solução que diga uma sugestão de preço ao nosso cliente na hora do anúncio:
 
 ## Projetos de Deep Learning:
-* **Pré-Diagnóstico de Doenças Pulmunares através de Imagens de Raio X: Gerar um modelo que mostrada uma imagem de raio-x consiga classificar se a imagem apresenta uma das 3 doenças pré-treinadas( covid-19, Pneumonia bacterial, Pneumonia Viral) ou se o pulmão está livre de qualquer uma das três. O objetivo é acelerar o processo de atendimento médico:**
+* **Pré-Diagnóstico de Doenças Pulmunares através de Imagens de Raio X: Gerar um modelo que mostrada uma imagem de raio-x consiga classificar se a imagem apresenta uma das 3 doenças pré-treinadas( covid-19, Pneumonia bacterial, Pneumonia Viral) ou se o pulmão está livre de qualquer uma das três. O objetivo é acelerar o processo de atendimento médico: [Ver Projeto](https://github.com/RossPereira/DetectarDoencasPulmonares/blob/main/DetectarDoencasPulmonares.ipynb)**
 
 ## Projetos de Processamento de Linguagem Natural:
-* **Classificação de Emoção em Review de Clientes: A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado:**
+* **Classificação de Emoção em Review de Clientes: A Amazon gostaria de uma maneira mais rápida e eficiênte de monitorar o tipo de sentimentos que os clientes estão tendo com relação suas Alexas(echo), pois o processo atual de monitoramento é muito demorado: [Ver Projeto](https://github.com/RossPereira/EmocaoClientes/blob/main/EmocaoClientes.ipynb).**
 ---
